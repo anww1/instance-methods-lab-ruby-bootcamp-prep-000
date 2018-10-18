@@ -5,3 +5,6 @@ class Person
     Hello World!"
   end
 end
+
+Alex = Person.new
+Alex.talk
